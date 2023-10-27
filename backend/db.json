@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": 122,
+            "name": "Jus d'Orange",
+            "price": "3",
+            "image": "https://cdn.pixabay.com/photo/2016/12/20/21/43/orange-1921548_1280.jpg"
+        },
+        {
+            "id": 123,
+            "name": "Jus de Citron",
+            "price": "2.5",
+            "image": "https://www.plantes-et-sante.fr/images/articles/le-vertus-du-citron.jpg_720_1000_2"
+        },
+        {
+            "id": 124,
+            "name": "Jus de Grenadine",
+            "price": "3.5",
+            "image": "https://i2.wp.com/blog.crudijus.fr/wp-content/uploads/2016/10/jus-de-grenade-sign%C3%A9.jpg?fit=1024%2C684&ssl=1"
+        },
+        {
+            "id": 125,
+            "name": "Jus de Pomme",
+            "price": "7",
+            "image": "https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/tag_photos/original/40905/jus-de-pomme-flickr-45739250752_f83c4f4366_k.jpg"
+        },
+        {
+            "id": 126,
+            "name": "Jus de Pêche",
+            "price": "1.5",
+            "image": "https://www.cocktails-road.fr/images/recipe/2021/03/jus-de-peche.jpg"
+        },
+        {
+            "id": 127,
+            "name": "Jus de Tomate",
+            "price": "3",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Tomato_juice_316744.jpg"
+        }
+    ]
+}
